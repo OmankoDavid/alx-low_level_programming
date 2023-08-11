@@ -1,10 +1,10 @@
 #include<stdio.h>
 /**
- * maiin - A programme that print a line with puts function
- * Return: 0 (success)
+ * main - Entry point
+ * Return: Always 0 (success)
  */
-int maia(void)
+int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
+	puts("/"Programming is like building a multilingual puzzle");
 	return (0);
 }
